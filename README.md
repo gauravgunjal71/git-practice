@@ -11,3 +11,5 @@ to practice git
 10. master
 4. feature branch
 5. feature branch
+6. feature branch
+7. feature branch
